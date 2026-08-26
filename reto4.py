@@ -1,0 +1,15 @@
+codigo = input("codigo del equipo: ")
+marca = input("marca: ")
+procesador = input("Procesador: ")
+ram = input("Memoria RAM: ")
+disco = input("Capacidad del disco: ")
+sistema = input("Sistema operativo: ")
+estado = True
+
+print("Código:", codigo)
+print("Marca:", marca)
+print("Procesador:", procesador)
+print("RAM:", ram)
+print("Disco:", disco)
+print("Sistema operativo:", sistema)
+print("Estado:", estado)
